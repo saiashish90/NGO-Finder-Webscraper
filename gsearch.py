@@ -4,8 +4,8 @@ import pandas as pd
 import re
 import os
 
-API_KEY = "AIzaSyCRyE5efidbgGrOmCSmcIqYOJS0PJrixsU"
-SEARCH_ENGINE_ID = "8c2eebc9c4e912b0b"
+API_KEY = ""
+SEARCH_ENGINE_ID = ""
 
 df = pd.read_csv('./bangalore_ngo.csv')
 urls = []
